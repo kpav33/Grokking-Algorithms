@@ -35,6 +35,8 @@ function maxRecursive(arr) {
   }
 }
 
+// Solution for exercise 4.4 (Recursive version of binary search algorithm) can be found in the folder 01-introduction-to-algorithms in file binarySearch.js
+
 // console.log(sum([1, 2, 3, 4]));
 // console.log(sumRecursive([1, 2, 3, 4]));
 // console.log(countRecursive([1, 2, 3, 4, 5]));
